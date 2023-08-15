@@ -1,0 +1,11 @@
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\bin\Debug\WindowsFormsApplication340.exe.config
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\bin\Debug\WindowsFormsApplication340.exe
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\bin\Debug\WindowsFormsApplication340.pdb
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.MainForm.resources
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.csproj.GenerateResource.cache
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.exe
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.pdb
+C:\Users\я\Desktop\WindowsFormsApplication340\WindowsFormsApplication340\obj\x86\Debug\WindowsFormsApplication340.Controls.BoardPanel.resources
